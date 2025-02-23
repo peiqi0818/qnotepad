@@ -7,3 +7,5 @@ C++结合Qt编写的简单记事本桌面软件，仅适用于WIndows平台
 4.格式：字体  
 5.帮助：帮助文档、关于  
 
+参考帮助文档：
+https://www.peiqiblog.com/article/4800
